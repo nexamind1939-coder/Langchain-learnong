@@ -1,0 +1,11 @@
+Python is a programming language.
+It is easy to learn.
+
+Streamlit is used to build web apps.
+LangChain helps build AI apps.
+
+RAG combines search with AI models.
+Embeddings turn text into numbers.
+
+Vector stores save those numbers.
+Retrievers find the best matches.
